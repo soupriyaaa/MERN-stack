@@ -1,0 +1,25 @@
+html
+css
+bootstrap
+javascript
+nodejs
+mongodb
+react
+
+<tagName> some content </tagName>
+<tagName attributeName="value" attributeName='value'> some content </tagName> 
+SGML (before html)
+<title> Tag : It is a pair tag.
+  <title> write title here </title>
+
+<body> Tag: it is a pair tag.
+   attributes of body tag.
+      1. id : used to give unique identity to an element
+      2. name : used to identify elements, mainly used in forms
+      3. class : used to apply same style to multiple elements
+      4. style : apply inline CSS directly
+      5. bgcolor : used to specify the background color of the webpage (white by default)
+      6. text : used to define the default text color of the body elements
+      7. background : used to set image as a background
+
+CSS/JavaScript
