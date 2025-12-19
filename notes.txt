@@ -22,4 +22,52 @@ SGML (before html)
       6. text : used to define the default text color of the body elements
       7. background : used to set image as a background
 
+types of tags: 
+ 1. pair tag:
+  1. block level tag
+  2. inline tags
+ 2. empty tag
+
+Type path (url) :
+  1. absolute path
+  2. relative path 
+
+absolute path means you need to give the complete address of file(resources): 
+  it includes: 
+    * protocol (http, https)
+    * domain name
+    * full file name 
+
+relative path gives the file location relative to current page. 
+
+paragraph tag <p> : used to display text on webpage in paragraph format. every paragraph tag starts w <p> tag and ends with </p>. it is a block label tag. 
+
+attributes of <p> tag: 
+ 1. align: used to align the text of pargraph. it takes 4 values: 
+  left (by default)
+  right
+  center
+  justify
+
+heading tags: used to display text on webpage in heading form. html provide six heading names from h1 to h6. 
+ attribute of heading tag: align same
+
+<hr> tag: used to draw a horizontal line in a webpage. it is an empty tag. 
+ attributes of hr tag
+  1. width: % or px length
+  2. size: thickness
+  3. color: 
+  4. align: left, right center 
+
+text formatting tag: used to display text in a webpage in different format 
+ 1. <b> bold
+ 2. <i> italic
+ 3. <em> emphasize
+ 4. <u> underlined
+ 5. <mark> highlight
+ 6. <small> smaller text
+ 7. <sup> superscript
+ 8. <sub> subscript
+ 9. <del> deleted from a document
+ 10. <pre> preformatted text (preserves line break)
 CSS/JavaScript
